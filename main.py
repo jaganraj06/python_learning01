@@ -33,7 +33,7 @@ print(name)
 print(ward)
 DOB=1.1
 DOB=str(DOB)
-print("your DOB is"+DOB)
+print("your current DOB is "+DOB)
 count=20.5
 print(float(count)+2)
 

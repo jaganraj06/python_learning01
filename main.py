@@ -6,7 +6,7 @@ name="abilesh"
 #printing variable and text
 print('"how are you "'+name)
 message = "happy birthday"
-name = "priyan"
+name = "prakash"
 quote="god bless you"
 if(name.isupper()):
     print("Name is upper")

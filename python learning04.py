@@ -21,7 +21,10 @@ if english > 100 or tamil > 100 or math > 100 or physics > 100 or chemistry > 10
 else:
     if english >= 35 and tamil >= 35 and math >=35 and physics >= 45 and chemistry >= 45 and computer >= 45 :#condition stmp
         print("promotted")
+        print("good")
     else:
         print("depromotted")
+        print("try your best next time")
 total = english + tamil + math + physics + chemistry + computer
 print("Total : " + str(total))
+
